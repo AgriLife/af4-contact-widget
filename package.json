@@ -1,0 +1,19 @@
+{
+  "name": "agrilife-contact-widget",
+  "version": "0.1.0",
+  "description": "Contact widget for WordPress websites using the Genesis theme and AgriFlex4 child theme, by AgriLife Communications",
+  "main": "agrilife-contact-widget.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgriLife/agrilife-contact-widget.git"
+  },
+  "author": "Zachary Watkins",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/AgriLife/agrilife-contact-widget/issues"
+  },
+  "homepage": "https://github.com/AgriLife/agrilife-contact-widget#readme"
+}
